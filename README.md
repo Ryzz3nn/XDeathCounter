@@ -8,5 +8,6 @@ to make it work, add a text element that reads the text document located in ~\Do
 
 
 ![image](https://github.com/Ryzz3nn/XDeathCounter/assets/47952472/0acfdf64-2800-4511-8c43-347ba5db6eb5)
-![iasdasdsakljdsalkmage](https://github.com/Ryzz3nn/XDeathCounter/assets/47952472/84eedf62-dcba-4fe5-b118-7eb65f7f4443)
+![image](https://github.com/Ryzz3nn/XDeathCounter/assets/47952472/488f15c1-bc1d-4cf3-b671-18df9087e56b)
+
 
